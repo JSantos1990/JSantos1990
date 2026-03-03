@@ -5,7 +5,7 @@
 🎓 Certified in Python (Harvard University)
 🎓 Certified in Computer Science (Harvard University)
 🎓 Google Cybersecurity Professional Certificate  
-🛡️ Focused on: SOC analysis, incident response, network security, and secure systems.
+🛡️ Focused on: SOC analysis, incident response, automate processes, network security, and secure systems.
 
 ---
 
