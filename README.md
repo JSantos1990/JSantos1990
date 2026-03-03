@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jorge Santos
 ### 🔐 Cybersecurity Professional & System Administration Background  
-🎓 Currently completing a Master’s degree in Cybersecurity  
+🎓 Currently completing a Master’s degree in Cybersecurity (UCAM)
 🎓 Certified in Linux Fundamentals (UC San Diego)
 🎓 Certified in Python (Harvard University)
 🎓 Certified in Computer Science (Harvard University)
