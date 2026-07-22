@@ -85,4 +85,8 @@ I continuously develop practical skills through cybersecurity labs, log analysis
 
 ---
 
+## Connect With Me
 
+- LinkedIn: www.linkedin.com/in/santos90
+- GitHub: https://github.com/JSantos1990
+- Email: Jousantosaveiro@gmailcom
