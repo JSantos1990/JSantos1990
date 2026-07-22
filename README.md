@@ -8,15 +8,15 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 
 ## 🎓 Education & Certifications
 
-🎓 Master's Degree in Cybersecurity (UCAM) - In Progress
+- Master's Degree in Cybersecurity (UCAM) - In Progress
 
-🎓 Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate
 
-🎓 CS50's Introduction to Computer Science (Harvard)
+- CS50's Introduction to Computer Science (Harvard)
 
-🎓 CS50's Introduction to Programming with Python (Harvard)
+- CS50's Introduction to Programming with Python (Harvard)
 
-🎓 Linux Operating System Fundamentals (UC San Diego)
+- Linux Operating System Fundamentals (UC San Diego)
 
 
 ## About Me
