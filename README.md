@@ -4,6 +4,8 @@ Cybersecurity Analyst | SOC Operations | Threat Detection | Python Automation | 
 
 Passionate about cybersecurity. Currently completing a Master's Degree in Cybersecurity while building hands-on security labs, detection use cases and automation projects.
 
+🛡️ Focused on: SOC analysis, incident response, automate processes, network security, and secure systems.
+
 ## Education & Certifications
 
 🎓 Master's Degree in Cybersecurity (UCAM) - In Progress
@@ -16,7 +18,6 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 
 🎓 Linux Operating System Fundamentals (UC San Diego)
 
-🛡️ Focused on: SOC analysis, incident response, automate processes, network security, and secure systems.
 
 ## About Me
 
