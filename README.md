@@ -35,24 +35,44 @@ My focus areas include:
 I continuously develop practical skills through cybersecurity labs, log analysis, packet inspection, detection engineering, and security-related automation projects.
 
 ---
+## 🎖️ Technical Skills
 
-## 🧰 Skills & Tools
-- **Security:** Wireshark, Suricata, Zeek, Splunk, Elastic SIEM, Nmap, Burp Suite  
-- **Programming & Automation:** Python, Bash  
-- **Operating Systems:** Linux (Debian/Ubuntu), Windows Server, AD  
-- **Cloud & Containers:** Docker, Azure, GitHub Actions  
-- **Cryptography:** hash functions, symmetric/asymmetric crypto, digital signatures
+### Security Operations
+- SIEM Analysis
+- Threat Detection
+- Incident Investigation
+- Network Traffic Analysis
 
-## 🎖️ Skill Badges
+### Security Tools
+- Wireshark
+- Suricata
+- Zeek
+- Splunk
+- Elastic SIEM
+- Nmap
+- Burp Suite
 
-https://img.shields.io/badge/Linux-Systems-000?logo=linux  
-https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white  
-https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?logo=wireshark&logoColor=white  
-https://img.shields.io/badge/Suricata-IDS/IPS-%23FF4500  
-https://img.shields.io/badge/Elastic-SIEM-005571?logo=elastic&logoColor=white  
-https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash&logoColor=white  
-https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white  
-https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white  
+### Programming & Automation
+- Python
+- Bash
+
+### Operating Systems
+- Linux (Ubuntu, Debian)
+- Windows Server
+- Active Directory
+
+### Cloud & DevOps
+- Docker
+- GitHub Actions
+- Azure
+
+### Cryptography
+- Hash Functions
+- AES
+- RSA
+- Digital Signatures
+- Public Key Infrastructure
+
 
 ---
 
