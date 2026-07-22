@@ -3,12 +3,29 @@
 Cybersecurity Analyst | SOC Operations | Threat Detection | Python Automation | Linux Security
 
 Passionate about cybersecurity, threat detection and incident response. Currently completing a Master's Degree in Cybersecurity while building hands-on security labs, detection use cases and automation projects.
+
 🎓 Currently completing a Master’s degree in Cybersecurity (UCAM)
 🎓 Certified in Linux Fundamentals (UC San Diego)
 🎓 Certified in Python (Harvard University)
 🎓 Certified in Computer Science (Harvard University)
 🎓 Google Cybersecurity Professional Certificate  
+
 🛡️ Focused on: SOC analysis, incident response, automate processes, network security, and secure systems.
+
+## About Me
+
+I am transitioning from Systems Administration into Cybersecurity, combining years of IT infrastructure experience with hands-on security practice.
+
+My focus areas include:
+
+- Security Operations Center (SOC) workflows
+- Threat Detection & Incident Response
+- Network Traffic Analysis
+- Linux Security & Hardening
+- Python Security Automation
+- Applied Cryptography
+
+I continuously develop practical skills through cybersecurity labs, log analysis, packet inspection, detection engineering, and security-related automation projects.
 
 ---
 
