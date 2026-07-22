@@ -75,12 +75,13 @@ I continuously develop practical skills through cybersecurity labs, log analysis
 
 
 ---
+## Currently Learning
 
-## 🔍 Current Learning
-- Reverse engineering basics  
-- Log analysis and detection engineering  
-- Threat hunting methodologies  
-- Secure coding and app security  
+- Detection Engineering
+- Threat Hunting
+- Malware Analysis Fundamentals
+- Secure Software Development
+- Cloud Security
 
 ---
 
