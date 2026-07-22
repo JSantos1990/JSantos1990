@@ -84,10 +84,4 @@ I continuously develop practical skills through cybersecurity labs, log analysis
 
 ---
 
-## 📂 Featured Projects (Building)
-- 🔸 **Forensic Lab – Wireshark Traffic Analysis**  
-- 🔸 **SOC Playbook Collection**  
-- 🔸 **Python Malware Analyzer (Static)**  
-- 🔸 **Attack–Defense Home Lab (Documentation)**  
 
-More coming soon…
