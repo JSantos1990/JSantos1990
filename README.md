@@ -6,7 +6,7 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 
 🛡️ Focused on: SOC analysis, incident response, automate processes, network security, and secure systems.
 
-## Education & Certifications
+## 🎓 Education & Certifications
 
 🎓 Master's Degree in Cybersecurity (UCAM) - In Progress
 
