@@ -21,7 +21,7 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 - Linux Operating System Fundamentals (UC San Diego)
 
 
-## About Me
+## 🚀 About Me
 
 I am transitioning from Systems Administration into Cybersecurity, combining years of IT infrastructure experience with hands-on security practice.
 
@@ -160,7 +160,7 @@ I continuously develop practical skills through cybersecurity labs, log analysis
 
 
 ---
-## Currently Learning
+## 📚 Currently Learning
 
 - Detection Engineering
 - Threat Hunting
@@ -170,7 +170,7 @@ I continuously develop practical skills through cybersecurity labs, log analysis
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/santos90
 - GitHub: https://github.com/JSantos1990
