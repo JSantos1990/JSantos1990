@@ -12,11 +12,11 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 
 - Bachelor´s Degree in Mechanical Engineering (Universidad de Navarra)
 
-- Google Cybersecurity Professional Certificate
+- Google Cybersecurity Professional Certificate (Google - Coursera)
 
-- CS50's Introduction to Computer Science (Harvard)
+- CS50's Introduction to Computer Science (Harvard - edX)
 
-- CS50's Introduction to Programming with Python (Harvard)
+- CS50's Introduction to Programming with Python (Harvard - edX)
 
 - Linux Operating System Fundamentals (UC San Diego)
 
