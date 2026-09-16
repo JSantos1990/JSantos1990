@@ -10,6 +10,8 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 
 - Master's Degree in Cybersecurity (UCAM) - In Progress
 
+- Bachelor´s Degree in Mechanical Engineering (Universidad de Navvarra)
+
 - Google Cybersecurity Professional Certificate
 
 - CS50's Introduction to Computer Science (Harvard)
