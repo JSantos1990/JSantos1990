@@ -2,9 +2,9 @@
 
 Cybersecurity Analyst | SOC Operations | Threat Detection | Python Automation | Linux Security
 
-Passionate about cybersecurity. Currently completing a Master's Degree in Cybersecurity while building hands-on security labs, detection use cases and automation projects.
+Cybersecurity professional with a Master's Degree in Cybersecurity and a technical background across engineering, industrial environments, and IT systems administration. Passionate about threat detection, incident response, and security automation, with hands-on experience developing security labs and practical cybersecurity projects.
 
-🛡️ Focused on: SOC analysis, incident response, automate processes, network security, and secure systems.
+🛡️ Specializing in: SOC operations, threat hunting, incident response, security automation, network security, and Linux-based environments.
 
 ## 🎓 Education & Certifications
 
