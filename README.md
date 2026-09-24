@@ -8,7 +8,7 @@ Passionate about cybersecurity. Currently completing a Master's Degree in Cybers
 
 ## 🎓 Education & Certifications
 
-- Master's Degree in Cybersecurity (UCAM) - In Progress
+- Master's Degree in Cybersecurity (UCAM)
 
 - Bachelor´s Degree in Mechanical Engineering (Universidad de Navarra)
 
